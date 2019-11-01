@@ -11,7 +11,7 @@
     "@types/node-fetch": "^2.1.2",
     "anki-apkg-export": "^4.0.2",
     "cheerio": "^1.0.0-rc.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "make-fetch-happen": "^4.0.1",
     "prettier": "^1.14.3",
     "ts-node": "^7.0.1",
