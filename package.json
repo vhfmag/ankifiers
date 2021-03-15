@@ -12,7 +12,7 @@
     "anki-apkg-export": "^4.0.2",
     "cheerio": "^1.0.0-rc.2",
     "lodash": "^4.17.19",
-    "make-fetch-happen": "^4.0.1",
+    "make-fetch-happen": "^8.0.0",
     "prettier": "^1.14.3",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
